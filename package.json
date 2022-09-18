@@ -1,0 +1,24 @@
+{
+  "name": "yuj-website",
+  "version": "1.0.0",
+  "description": "Yuj Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devyanit05/yuj-website.git"
+  },
+  "keywords": [
+    "yuj",
+    "yoga",
+    "mern"
+  ],
+  "author": "Devyani T. Pratiksha S.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devyanit05/yuj-website/issues"
+  },
+  "homepage": "https://github.com/devyanit05/yuj-website#readme"
+}
